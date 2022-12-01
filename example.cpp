@@ -22,5 +22,5 @@ int main(){
 	ls.PrintLists(); //printing hole list on console
 	
 	
-	cout<<ls.Size()<<'\n'; //printing the number of elements in the list
+	std::cout<<ls.Size()<<'\n'; //printing the number of elements in the list
 }
